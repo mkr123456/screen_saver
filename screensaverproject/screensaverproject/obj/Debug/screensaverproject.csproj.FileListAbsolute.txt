@@ -1,0 +1,10 @@
+C:\Users\DELL PRECISION\source\repos\screensaverproject\screensaverproject\bin\Debug\screensaverproject.exe.config
+C:\Users\DELL PRECISION\source\repos\screensaverproject\screensaverproject\bin\Debug\screensaverproject.exe
+C:\Users\DELL PRECISION\source\repos\screensaverproject\screensaverproject\bin\Debug\screensaverproject.pdb
+C:\Users\DELL PRECISION\source\repos\screensaverproject\screensaverproject\obj\Debug\screensaverproject.csprojAssemblyReference.cache
+C:\Users\DELL PRECISION\source\repos\screensaverproject\screensaverproject\obj\Debug\screensaverproject.frmScSaver.resources
+C:\Users\DELL PRECISION\source\repos\screensaverproject\screensaverproject\obj\Debug\screensaverproject.Properties.Resources.resources
+C:\Users\DELL PRECISION\source\repos\screensaverproject\screensaverproject\obj\Debug\screensaverproject.csproj.GenerateResource.cache
+C:\Users\DELL PRECISION\source\repos\screensaverproject\screensaverproject\obj\Debug\screensaverproject.csproj.CoreCompileInputs.cache
+C:\Users\DELL PRECISION\source\repos\screensaverproject\screensaverproject\obj\Debug\screensaverproject.exe
+C:\Users\DELL PRECISION\source\repos\screensaverproject\screensaverproject\obj\Debug\screensaverproject.pdb
